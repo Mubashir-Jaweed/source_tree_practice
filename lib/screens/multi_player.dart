@@ -19,3 +19,7 @@ class _MultiPlayerState extends State<MultiPlayer> {
     );
   }
 }
+
+void printString(String sent) {
+  print(sent);
+}
