@@ -23,3 +23,6 @@ class _MultiPlayerState extends State<MultiPlayer> {
 abc() {
   print("HAHAHAH");
 }
+void printString(String sent) {
+  print(sent);
+}
