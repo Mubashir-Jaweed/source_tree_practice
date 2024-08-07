@@ -19,3 +19,8 @@ class _MultiPlayerState extends State<MultiPlayer> {
     );
   }
 }
+
+
+character() {
+print('hello world character');
+}
