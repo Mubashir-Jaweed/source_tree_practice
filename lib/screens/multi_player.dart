@@ -26,3 +26,7 @@ abc() {
 void printString(String sent) {
   print(sent);
 }
+
+character() {
+print('hello world character');
+}
