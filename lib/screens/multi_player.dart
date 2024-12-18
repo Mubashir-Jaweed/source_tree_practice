@@ -20,6 +20,13 @@ class _MultiPlayerState extends State<MultiPlayer> {
   }
 }
 
+abc() {
+  print("HAHAHAH");
+}
 void printString(String sent) {
   print(sent);
+}
+
+character() {
+print('hello world character');
 }
